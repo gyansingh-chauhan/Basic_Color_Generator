@@ -1,0 +1,1 @@
+THISis a  basic color designed for practice.
