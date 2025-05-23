@@ -1,1 +1,1 @@
-THISis a  basic color designed for practice.
+This is a basic color Generator designed for practice.
